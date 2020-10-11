@@ -11,9 +11,9 @@
 ### 👩‍💻 I'm working on <a href = "https://hostsapling.net">HostSapling</a>!
 
 ### ⚡ Technologies
-- Front-end development using Typescript, Vue, CSS, SASS, Tailwind, Bulma
-- Backend development using Typescript, GraphQL, PostgreSQL & Go
-- Deployement using Docker
+- Front-end development using Typescript, Vue, CSS, SASS, Tailwind
+- Backend development using Typescript, GraphQL, PostgreSQL, PHP & Go
+- Deployment using Docker
 
 Languages I use: <br>
 
