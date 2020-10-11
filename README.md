@@ -23,14 +23,14 @@ Languages I use: <br>
 ![CSS3](https://img.shields.io/badge/-CSS3-141414?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)
-![C#](https://img.shields.io/badge/-C%20Sharp-141414?style=flat&logo=c-sharp)
+![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=c-sharp)
 ![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 ![Lua](https://img.shields.io/badge/-Lua-141414?style=flat&logo=lua)
 ![Sass](https://img.shields.io/badge/-Sass-141414?style=flat&logo=sass)
 ![PHP](https://img.shields.io/badge/-PHP-141414?style=flat&logo=php)
 ![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Pthon-141414?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)
 
 Tools & technologies I have worked with: <br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)
