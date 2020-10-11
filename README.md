@@ -8,7 +8,7 @@
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-### 👩‍💻 I'm working on <a href = "https://hostsapling">HostSapling</a>!
+### 👩‍💻 I'm working on <a href = "https://hostsapling.net">HostSapling</a>!
 
 ### ⚡ Technologies
 - Front-end development using Typescript, Vue, CSS, SASS, Tailwind, Bulma
