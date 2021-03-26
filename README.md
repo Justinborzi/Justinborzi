@@ -39,6 +39,7 @@ Tools & technologies I have worked with: <br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-141414?style=flat&logo=tailwind-css)
 ![Vue](https://img.shields.io/badge/-Vue-141414?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react.js)
 ![Node](https://img.shields.io/badge/-Node-141414?style=flat&logo=node.js)
 ![jQuery](https://img.shields.io/badge/-jQuery-141414?style=flat&logo=jquery)
 ![Linux](https://img.shields.io/badge/-Linux-141414?style=flat&logo=linux)
@@ -64,12 +65,12 @@ Some of my favorite open source projects: <br>
 - AI & Data Science
 - C/C++
 - Rust
-- React.js
+- React.js & Vue.js
 
 ### 💻 Projects
 - <a href = "https://github.com/Justinborzi/steamuser-helper">SteamerPHP</a> A very Basic PHP Package to get steam user information
 - <a href = "">Redix.IO</a> An Upcoming Open-Source Billing solution for E-Commerce Systems.
-- <a href = "">
+- <a href = "">astra-forums</a> A forum system that will blow your mind.
 
 ### 💡 Goals for 2021
 - Create more public projects
