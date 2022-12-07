@@ -10,7 +10,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 ### 👩‍💻 I'm working on <a href = "https://hostsapling.net">HostSapling</a>!
 
-###⚡ Technologies
+### ⚡ Technologies
 - Front-end development using Blade, Vue, React, CSS, SASS, Tailwind
 - Backend development using TypeScript/JavaScript, GraphQL, PostgreSQL, PHP & Go
 - Deployment using Docker
