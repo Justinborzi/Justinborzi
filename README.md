@@ -10,7 +10,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 ### 👩‍💻 I'm working on <a href = "https://hostsapling.net">HostSapling</a>!
 
-### ⚡ Technologies
+###⚡ Technologies
 - Front-end development using Blade, Vue, React, CSS, SASS, Tailwind
 - Backend development using TypeScript/JavaScript, GraphQL, PostgreSQL, PHP & Go
 - Deployment using Docker
@@ -82,7 +82,7 @@ Some of my favorite open source projects: <br>
 - <a href = "">Astra Forums</a> A forum system that will blow your mind.
 - <a href = "">HostSapling.net</a> A cheap affordable hosting platform.
 
-### 💡 Goals for 2022
+### 💡 Goals for 2023
 - Create more public projects
 - Speed up so daily tasks
 - Develop Open-Source IOT systems
